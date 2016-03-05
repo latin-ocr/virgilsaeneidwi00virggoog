@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./virgilsaeneidwi00virggoog_0524.png"; bbox 0 0 783 1204; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 153 117 187 134">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 153 117 187 134">
+     <span class='ocr_line' id='line_1_1' title="bbox 153 117 187 134; baseline -0.029 0"><span class='ocrx_word' id='word_1_1' title='bbox 153 117 187 134; x_wconf 84' lang='lat'>500</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 311 121 529 134">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 311 121 529 134">
+     <span class='ocr_line' id='line_1_2' title="bbox 311 121 529 134; baseline -0.005 0"><span class='ocrx_word' id='word_1_2' title='bbox 311 121 367 134; x_wconf 59' lang='lat' dir='ltr'>nous</span> <span class='ocrx_word' id='word_1_3' title='bbox 376 122 399 134; x_wconf 61' lang='grc' dir='ltr'>ου</span> <span class='ocrx_word' id='word_1_4' title='bbox 412 122 447 134; x_wconf 70' lang='lat' dir='ltr'>mm</span> <span class='ocrx_word' id='word_1_5' title='bbox 459 121 529 134; x_wconf 68' lang='lat' dir='ltr'><strong>Ammm.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 679 442 691 536">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 679 442 691 536">
+     <span class='ocr_line' id='line_1_3' title="bbox 679 442 691 536; textangle 90"><span class='ocrx_word' id='word_1_6' title='bbox 679 495 691 536; x_wconf 74' lang='grc' dir='ltr'>ιοιιηι</span> <span class='ocrx_word' id='word_1_7' title='bbox 680 442 691 490; x_wconf 70' lang='lat' dir='ltr'>unum</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 681 552 692 676">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 681 552 692 676">
+     <span class='ocr_line' id='line_1_4' title="bbox 681 552 692 676; textangle 90"><span class='ocrx_word' id='word_1_8' title='bbox 681 616 692 676; x_wconf 61' lang='lat' dir='ltr'>Aenum«-</span> <span class='ocrx_word' id='word_1_9' title='bbox 684 607 690 612; x_wconf 73' lang='lat' dir='ltr'>f</span> <span class='ocrx_word' id='word_1_10' title='bbox 681 599 691 604; x_wconf 77' lang='lat' dir='ltr'>r</span> <span class='ocrx_word' id='word_1_11' title='bbox 681 552 692 595; x_wconf 70' lang='lat' dir='ltr'>cumn·</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 681 689 692 781">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 681 689 692 781">
+     <span class='ocr_line' id='line_1_5' title="bbox 681 689 692 781; textangle 90"><span class='ocrx_word' id='word_1_12' title='bbox 681 750 692 781; x_wconf 67' lang='lat' dir='ltr'>Lake:</span> <span class='ocrx_word' id='word_1_13' title='bbox 681 689 691 745; x_wconf 55' lang='lat' dir='ltr'>Avernus.</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

@@ -1,0 +1,39 @@
+00000000 mn. 11. 29
+
+“ Gessimus. Invidia postquam pellacis Ulixi· 90
+“ Haud ignota loquor-superis concessit ab oris;
+“ Afflictus vitam in tenebris luctuque trahebam,
+“Et casum insontis mecum indignabar amici.
+“ Nec tacui demens, et me, sors si qua tulisset,
+:m “ Si patrios umquam remeassem victor ad Argos, at .
+y 2,‘{,‚4Pro1nisi ultorem, et verbis odia asperamovi.
+Μ 2 “ Hinc mibi prima mali labes 3 100000000θο Ulixes
+⁹ “Criminibus terrere novis, bine spargere voees
+“In vulgum ambiguas, et quaerere conscius arma.
+“ Nec requievit enim, donec Calchante miniitro... 100
+“ Sed quid ego haee autem nequidquam ingrata revolvo?
+“ Quidve moror, si omnes uno ordine habetis Achivos,
+“quue audire sat est Ρ Jamdudum sumite poenas:
+'“ Hoc Ithacus velit, 01 magno mercentur Atridae.’'
+Tum vero ardemus scitari et quaerere causas, 105
+Ignari scelerum tantorum artisque Pelasgae. r* - ·
+Prosequitur pavitans, et ficto pectore fatur:
+“ Saepe fugam Danai Troja cupiere relicta
+“ Moliri et longo fessi discedere bello';
+“ Fecissentque utinam t Saepe illos aspera ponti 110
+“ Interclusit hiems, 01 terruit Auster euntes;
+“ Praecipue, quum κ jam hic trabibus contextus acernis
+“Staret equus, toto sonuerunt aethere nimbi.
+⁴* “ Suspensi Eurypylum scitantem oracula Phoebi
+“ Mittimus3 isque adytis haec tristia dicta reportat: 115
+“ ‘Sanguine placastis ventos et virgine caesa,
+“ ‘Quum primum Iliacas Danai venistis ad oras:
+“ ‘Sanguine quaerendi reditus, animaque litandum
+“ ‘Argolica.’· Vulgi quae vox ut venit ad aures;
+“Obstupuere animi, gelidusque perime cucurrit 120
+“Ossa tremor, cui fata parent, quem poseat Apelle.
+“ Hic Ithacus vatem magno Calchanta tumultu
+“ Protrahit in medios3 quae sint ea numina'divdm,
+
+ 
+

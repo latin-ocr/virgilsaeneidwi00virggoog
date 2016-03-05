@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./virgilsaeneidwi00virggoog_0003.png"; bbox 0 0 2838 4522; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 685 89 1283 364">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 678 89 1283 385">
+     <span class='ocr_line' id='line_1_1' title="bbox 685 89 1283 364; baseline 0.017 -25.884"><span class='ocrx_word' id='word_1_1' title='bbox 685 89 1235 364; x_wconf 61' lang='lat' dir='ltr'>mm!</span> <span class='ocrx_word' id='word_1_2' title='bbox 1282 339 1283 344; x_wconf 11' lang='grc' dir='ltr'>ψ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 680 371 1279 493">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 680 371 1279 493">
+     <span class='ocr_line' id='line_1_2' title="bbox 680 371 1279 493; baseline 0.095 -59"><span class='ocrx_word' id='word_1_3' title='bbox 680 371 1115 493; x_wconf 8' lang='grc' dir='ltr'>,1η329044-1-02π771,</span> <span class='ocrx_word' id='word_1_4' title='bbox 1146 371 1279 493; x_wconf 10' lang='grc' dir='ltr'>,895-μ.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1424 4522">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1424 4522">
+     <span class='ocr_line' id='line_1_3' title="bbox 0 0 1424 4522; baseline 0 0"><span class='ocrx_word' id='word_1_5' title='bbox 0 0 1424 4522; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
